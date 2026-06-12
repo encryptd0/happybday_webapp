@@ -1,0 +1,13 @@
+{
+  "name": "happybday-webapp",
+  "version": "1.0.0",
+  "description": "A birthday surprise web app: a love letter and a game of noughts & crosses",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
